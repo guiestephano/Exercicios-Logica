@@ -397,3 +397,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Java Projects intellij
+*.idea
+*.iml
+*.class
