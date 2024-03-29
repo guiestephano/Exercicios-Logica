@@ -402,3 +402,6 @@ FodyWeavers.xsd
 *.idea
 *.iml
 *.class
+
+# Java Projects Vs code
+*.vscode
